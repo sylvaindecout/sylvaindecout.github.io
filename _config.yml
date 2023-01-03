@@ -1,11 +1,23 @@
 title: Sylvain DECOUT
 subtitle: Tech Lead / Architect / Developer
+name: Sylvain Decout
+email: sylvain.decout@shodo.io
+description: >-
+  Sylvain DECOUT (Tech Lead / Architect / Developer)
 baseurl: ""
 url: "https://sylvaindecout.github.io"
 
 # GitHub repository
 github_username: sylvaindecout
 repository: "sylvaindecout/sylvaindecout.github.io"
+
+# Personal information
+social:
+  name: Sylvain Decout
+  links:
+    - "https://twitter.com/sylvaindecout"
+    - "https://www.linkedin.com/in/sylvain-decout"
+    - "https://instagram.com/sylvain.decout"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
