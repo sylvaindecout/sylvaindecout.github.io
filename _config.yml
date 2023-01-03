@@ -50,6 +50,7 @@ footer:
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "contrast"
+locale: "en-US"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
