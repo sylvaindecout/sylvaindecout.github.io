@@ -12,12 +12,40 @@ github_username: sylvaindecout
 repository: "sylvaindecout/sylvaindecout.github.io"
 
 # Personal information
+author:
+  name: "Sylvain Decout"
+  avatar: "/assets/images/me.png"
+  bio: Dev at Shodo
+  location: "Paris, France"
+  links:
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: "https://www.linkedin.com/in/sylvain-decout"
+    - label: "GitHub"
+      icon: fab fa-fw fa-github
+      url: "https://github.com/sylvaindecout"
+    - label: Twitter
+      icon: fab fa-fw fa-twitter-square
+      url: "https://twitter.com/sylvaindecout"
+    - label: Instagram
+      icon: fab fa-fw fa-instagram
+      url: "https://instagram.com/sylvain.decout"
+twitter:
+  username: sylvaindecout
 social:
   name: Sylvain Decout
   links:
     - "https://twitter.com/sylvaindecout"
     - "https://www.linkedin.com/in/sylvain-decout"
     - "https://instagram.com/sylvain.decout"
+footer:
+  links:
+    - label: "GitHub"
+      icon: fab fa-fw fa-github
+      url: "https://github.com/sylvaindecout"
+    - label: LinkedIn
+      icon: fab fa-fw fa-linkedin
+      url: "https://www.linkedin.com/in/sylvain-decout"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
