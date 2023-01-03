@@ -3,6 +3,10 @@ subtitle: Tech Lead / Architect / Developer
 baseurl: ""
 url: "https://sylvaindecout.github.io"
 
+# GitHub repository
+github_username: sylvaindecout
+repository: "sylvaindecout/sylvaindecout.github.io"
+
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 plugins:
