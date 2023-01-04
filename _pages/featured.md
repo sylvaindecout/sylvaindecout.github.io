@@ -17,9 +17,26 @@ This presentation goes back to basics  to give you a clear understanding of what
 
 ### 2019 - Xebicon Paris 🇫🇷
 
-Documenting architecture decisions is usually not so easy. In just 5 minutes, I offer to present you with a solution that is both lightweight and efficient: ADRs.
+Documenting architecture decisions is usually not so easy. In just 5 minutes, I give you an overview of a solution that is both lightweight and efficient: ADRs.
 
 [Architecture and documentation - ADRs in 5 minutes](https://www.youtube.com/watch?v=YtVs3nCrmG0)
+
+## Other presentations
+
+* 2023 - Nice developer environments with Batect (EDF)
+* 2022 - Introduction to Behavior-Driven Development (EDF)
+* 2022 - Hands on Mutation Testing (EDF)
+* 2022 - Resilience patterns with Resilience4j (EDF)
+* 2021 - Back to Basics: Software Craftsmanship (Xebia)
+* 2020 - Hexagonal Architecture 101 (Allianz)
+* 2020 - Event Sourcing 101 (Europ Assistance)
+* 2020 - Hands on Property-Based Testing in Java (Xebia)
+* 2019 - Introduction to Domain-Driven Design (Xebia)
+* 2019 - Debate: Anticipation and YAGNI (Xebia)
+* 2018 - DevOps: SRE, CI/CD, Kubernetes, Istio, Infra as Code (Xebia)
+* 2018 - Enforcing architecture decisions with ArchUnit (Xebia)
+* 2018 - Collaborative workshop: Exploring Supple Design (Xebia)
+* 2014 - Introduction to unit tests (Echoes Technologies)
 
 ## Publications
 
@@ -36,11 +53,11 @@ We hope this TechTrends will guide you in the important decisions you will have 
 
 ArchUnit is a library which offers a fluent API to test the architecture of Java applications.
 
-The purpose of this 1st part is to show what it is capable of.
+The 1st part of the article gives an overview of what ArchUnit is capable of.
 
 [Blog Xebia (part 1)](https://blog.engineering.publicissapient.fr/2019/04/23/appliquez-vos-decisions-darchitecture-avec-archunit-1-2/)
 
-The purpose of this 2nd part is to question how it can fit the way you deal with architecture and its documentation.
+The 2nd part of the article questions how it can fit the way you deal with architecture and its documentation.
 
 [Blog Xebia (part 2)](https://blog.engineering.publicissapient.fr/2019/04/29/appliquez-vos-decisions-darchitecture-avec-archunit-2-2/)
 
@@ -54,9 +71,9 @@ The purpose of this article is to show what it is capable of and to question how
 
 ### Architecture et documentation - ADRs (2019) 🇫🇷
 
-The systems we work on are constantly evolving.
-This evolution applies to their architecture as well, so documentation needs to be able to adapt.
-This is the problematic Architecture Decision Records, aka ADRs, offer to tackle.
+The systems we work on evolve over time. 
+This includes changes in their architecture, to which the architecture documentation must adapt.
+This is the problem that Architecture Decision Records, aka ADRs, offer to tackle.
 
 The purpose of this article is to help you understand what defines an ADR and to give you pointers as to how you can introduce this new type of documentation.
 
@@ -74,6 +91,6 @@ This is a brief report for conferences that were held at Devoxx France 2018:
 
 ### Basic principles for object-oriented programming (2014) 🇫🇷
 
-This article explains some very important best practices for object-oriented programming.
+This article explains some fundamentals for object-oriented programming.
 
 [Blog Echoes Technologies](https://web.archive.org/web/20160128205242/http://usine-logicielle.fr:80/principes-de-programmation-objet/)
