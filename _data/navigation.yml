@@ -1,5 +1,7 @@
 main:
   - title: "About"
     url: /
+  - title: "Skills"
+    url: /skills/
   - title: "Education"
     url: /education/
