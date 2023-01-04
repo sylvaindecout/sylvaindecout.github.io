@@ -13,13 +13,13 @@ But wait, what is this all supposed to mean?
 
 This presentation goes back to basics  to give you a clear understanding of what a Service Mesh actually is and how it could help you in your day-to-day work.
 
-[Service Mesh - Back to basics](https://www.youtube.com/watch?v=iA2BbX7WuTw)
+{% include video provider="youtube" id="iA2BbX7WuTw" %}
 
 ### 2019 - Xebicon Paris 🇫🇷
 
 Documenting architecture decisions is usually not so easy. In just 5 minutes, I give you an overview of a solution that is both lightweight and efficient: ADRs.
 
-[Architecture and documentation - ADRs in 5 minutes](https://www.youtube.com/watch?v=YtVs3nCrmG0)
+{% include video provider="youtube" id="YtVs3nCrmG0" %}
 
 ## Other presentations
 
