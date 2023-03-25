@@ -23,6 +23,7 @@ Documenting architecture decisions is usually not so easy. In just 5 minutes, I 
 
 ## Other presentations
 
+* 2023 - Supple Design - Aiming for code meant to age well (Shodo)
 * 2023 - Nice developer environments with Batect (EDF)
 * 2022 - Introduction to Behavior-Driven Development (EDF)
 * 2022 - Hands on Mutation Testing (EDF)
