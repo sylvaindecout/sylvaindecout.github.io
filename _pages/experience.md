@@ -14,6 +14,12 @@ Software Engineer (current position)
 
 ### EDF (in progress)
 
+Tech lead and full-stack developer in the web/mobile development team of IT Operations.
+
+* NaviRhin - Lock traffic tracking application (Hexagonal Architecture, Java 11, Spring Boot, jOOQ, Liquibase, Angular, NgRx, Cypress)
+* A2S - White-label application for content distribution and alerting (Java 11, Spring Boot, Lombok, JPA, Liquibase, Angular, OpenShift)
+* Animation of a community of practice
+
 ## 2017 - Xebia France
 
 ![Xebia](../assets/images/logo_xebia.png){: .align-left .comment__avatar}
