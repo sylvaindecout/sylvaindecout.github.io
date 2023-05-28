@@ -150,7 +150,7 @@ Trainee (2 months)
 
 Design and development of a modem-embedded application for the transmission of GPS positions through GPRS/Iridium networks.
 
-* C, GPC, Iridium, GPRS
+* C, GPS, Iridium, GPRS
 
 ## 2005 - Institut Delaunay
 
