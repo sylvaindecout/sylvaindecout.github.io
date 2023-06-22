@@ -56,11 +56,11 @@ ArchUnit is a library which offers a fluent API to test the architecture of Java
 
 The 1st part of the article gives an overview of what ArchUnit is capable of.
 
-[Blog Xebia (part 1)](https://blog.engineering.publicissapient.fr/2019/04/23/appliquez-vos-decisions-darchitecture-avec-archunit-1-2/)
+[Blog Xebia (part 1)](https://web.archive.org/web/20190428093720/https://blog.xebia.fr/2019/04/23/appliquez-vos-decisions-darchitecture-avec-archunit-1-2/)
 
 The 2nd part of the article questions how it can fit the way you deal with architecture and its documentation.
 
-[Blog Xebia (part 2)](https://blog.engineering.publicissapient.fr/2019/04/29/appliquez-vos-decisions-darchitecture-avec-archunit-2-2/)
+[Blog Xebia (part 2)](https://web.archive.org/web/20200929084456/https://blog.engineering.publicissapient.fr/2019/04/29/appliquez-vos-decisions-darchitecture-avec-archunit-2-2/)
 
 ### Enforcing architecture decisions with ArchUnit (2019) 🇬🇧
 
@@ -78,7 +78,7 @@ This is the problem that Architecture Decision Records, aka ADRs, offer to tackl
 
 The purpose of this article is to help you understand what defines an ADR and to give you pointers as to how you can introduce this new type of documentation.
 
-[Blog Xebia](https://blog.engineering.publicissapient.fr/2019/03/05/architecture-et-documentation-les-adrs/)
+[Blog Xebia](https://web.archive.org/web/20211128094608/https://blog.engineering.publicissapient.fr/2019/03/05/architecture-et-documentation-les-adrs/)
 
 ### A Friday at Devoxx (2018) 🇫🇷
 
@@ -88,7 +88,7 @@ This is a brief report for conferences that were held at Devoxx France 2018:
 * Stream all things (patterns of modern data integration), by Gwen Shapira
 * Distributed algorithms for Big Data, season 3 - a matter of time, by Duy Hai Doan
 
-[Blog Xebia](https://blog.engineering.publicissapient.fr/2018/05/04/un-vendredi-a-devoxx-decouvrez-le-retours-des-xebians/)
+[Blog Xebia](https://web.archive.org/web/20190821185127/https://blog.xebia.fr/2018/05/04/un-vendredi-a-devoxx-decouvrez-le-retours-des-xebians/)
 
 ### Basic principles for object-oriented programming (2014) 🇫🇷
 
