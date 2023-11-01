@@ -12,7 +12,7 @@ Software Engineer (current position)
 
 ![EDF](../assets/images/logo_edf.png){: .align-right .comment__avatar}
 
-### EDF (in progress)
+### EDF (ongoing)
 
 Tech lead and full-stack developer in the web/mobile development team of IT Operations.
 
