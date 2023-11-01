@@ -23,6 +23,8 @@ Documenting architecture decisions is usually not so easy. In just 5 minutes, I 
 
 ## Other presentations
 
+* 2023 - jOOQ 101 (EDF)
+* 2023 - Trunk-Based Development 101 (EDF)
 * 2023 - Supple Design - Aiming for code meant to age well (Shodo)
 * 2023 - Nice developer environments with Batect (EDF)
 * 2022 - Introduction to Behavior-Driven Development (EDF)
