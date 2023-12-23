@@ -18,7 +18,8 @@ Tech lead and full-stack developer in the web/mobile development team of IT Oper
 
 * NaviRhin - Lock traffic tracking application (Hexagonal Architecture, Java 11, Spring Boot, jOOQ, Liquibase, Angular, NgRx, Cypress)
 * A2S - White-label application for content distribution and alerting (Java 11, Spring Boot, Lombok, JPA, Liquibase, Angular, OpenShift)
-* uSeed v3 - Common base used by the team to accelerate the development of applications (Backstage, Java 17, Spring Boot, jOOQ, Liquibase, ArchUnit, Angular, NgRx, Jenkins, OpenShift)
+* uSeed - Common base used by the team to accelerate the development of applications (Backstage, Java 17, Spring Boot, jOOQ, Liquibase, ArchUnit, Angular, NgRx, Jenkins, OpenShift)
+* Desiree - EDF Hydro application used to process declarations of works (Java 17, Spring Boot, jOOQ, Liquibase, Angular, NgRx, Leaflet, GeoServer, OpenShift)
 * Animation of a community of practice
 
 ## 2017 - Xebia France
