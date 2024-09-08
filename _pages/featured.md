@@ -6,6 +6,16 @@ toc: true
 
 ## Conferences
 
+### 2024 - BreizhCamp Rennes 🇫🇷
+
+As time goes by, most applications tend to grow heavier and heavier, until they become too expensive to maintain.
+
+Thankfully, DDD happens to include a whole section, often overlooked, called "Supple Design". It provides techniques to reach for a design that can easily adapt to future needs. To put it simply: code that is -and will remain- a pleasure to work with.
+
+Are these techniques from 20 years ago still relevant? How do they articulate with other concepts that have appeared since then? In order to answer these questions, let us review each of the principles of Supple Design, illustrate them in a live coding session, and see how they make sense as a whole.
+
+{% include video provider="youtube" id="ZEcJEhgoi1E" %}
+
 ### 2022 - BreizhCamp Rennes 🇫🇷
 
 Service Mesh is a concept that has been trending for a few years now, and for good reason, as it brings great benefits to microservice architectures...
@@ -25,7 +35,6 @@ Documenting architecture decisions is usually not so easy. In just 5 minutes, I 
 
 * 2023 - jOOQ 101 (EDF)
 * 2023 - Trunk-Based Development 101 (EDF)
-* 2023 - Supple Design - Aiming for code meant to age well (Shodo)
 * 2023 - Nice developer environments with Batect (EDF)
 * 2022 - Introduction to Behavior-Driven Development (EDF)
 * 2022 - Hands on Mutation Testing (EDF)
