@@ -33,6 +33,7 @@ Documenting architecture decisions is usually not so easy. In just 5 minutes, I 
 
 ## Other presentations
 
+* 2024 - [Git basics and best practices](https://github.com/sylvaindecout/git-basics) (EDF)
 * 2023 - jOOQ 101 (EDF)
 * 2023 - Trunk-Based Development 101 (EDF)
 * 2023 - Nice developer environments with Batect (EDF)
