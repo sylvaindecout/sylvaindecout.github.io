@@ -10,9 +10,17 @@ toc: true
 
 Software Engineer (current position)
 
+![42](../assets/images/logo_42.jpg){: .align-right .comment__avatar}
+
+### 42 (ongoing)
+
+Squad lead and full-stack developer for 42Next project, a complete redesign of the IS of 42 for campuses all over the world.
+
+* Modular monolith, Hexagonal Architecture, NestJS, Next.js, Kysely, Playwright, Keycloak, AWS
+
 ![EDF](../assets/images/logo_edf.png){: .align-right .comment__avatar}
 
-### EDF (ongoing)
+### EDF (2½ years)
 
 Tech lead and full-stack developer in the web/mobile development team of IT Operations.
 
