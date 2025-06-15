@@ -1,8 +1,6 @@
 main:
   - title: "Featured"
     url: /featured/
-  - title: "Skills"
-    url: /skills/
   - title: "Experience"
     url: /experience/
   - title: "Education"
