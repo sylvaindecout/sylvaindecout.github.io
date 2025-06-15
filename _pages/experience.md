@@ -10,13 +10,19 @@ toc: true
 
 Software Engineer (current position)
 
-![TBC](../assets/images/logo_shodo.png){: .align-right .comment__avatar}
+![Betclic](../assets/images/logo_betclic.png){: .align-right .comment__avatar}
 
-### TBC (ongoing)
+### Betclic (ongoing)
 
-Squad lead and full-stack developer for a complete redesign of the IS of a higher education institution for campuses all over the world.
+To be completed
 
-* Modular monolith, Hexagonal Architecture, NestJS, Next.js, Kysely, Playwright, Keycloak, AWS
+![42](../assets/images/logo_42.jpg){: .align-right .comment__avatar}
+
+### 42 (1½ years)
+
+Squad lead and full-stack developer for the admission platform, as part of a complete redesign of the information system of 42 used by campuses all over the world.
+
+* Modular monolith, Hexagonal Architecture, NestJS, Next.js, Kysely, Playwright, Keycloak, AWS, Event Storming
 
 ![EDF](../assets/images/logo_edf.png){: .align-right .comment__avatar}
 
