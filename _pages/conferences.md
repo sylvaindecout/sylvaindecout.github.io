@@ -10,17 +10,18 @@ toc: true
 
 **Sortir des ORMs avec jOOQ (2h hands-on lab)**
 
-Hibernate, Entity Framework, JPA... We have been working with ORMs for decades.
-As devs, we often know how to use them, but what's behind them is a bit of a mystery.
-It's convenient, it saves time, but this magic comes with a cost that we often come to pay later on: complex queries, poor performance, context-specific behaviors...
+We have been working with ORMs for decades.
+As devs, we often know how to use them, but what's behind remains a bit of a mystery.
+It's convenient, it saves time, but this magic comes at a cost that we often pay later on: complex queries, poor performance, context-specific behaviors...
 
 And yet, for several years now, alternatives such as jOOQ have been gaining traction.
-Their credo: throw away your ORM and go back to good old SQL, except it’s type-safe.
+Their credo: throw out your ORM and go back to good old SQL, except it's type-safe.
 
-This workshop, available in Java and Kotlin, has you working on a typical Spring / JPA application to integrate jOOQ.
-We take a step-by-step approach to get rid of your harmful dependency on ORMs.
-Along the way, we also discover how much simpler, more standard and more expressive our code can become.
+This workshop, available in Java and in Kotlin, has you working on a typical Spring / JPA application, integrating jOOQ step by step to get rid of the ORM.
+Along the way, we also discover just how much simpler, more standard and more expressive our code can become.
 And that it's pretty easy.
+
+{% include video provider="youtube" id="6TJNfVzMRWk" %}
 
 ## 2024 - BreizhCamp Rennes 🇫🇷
 
