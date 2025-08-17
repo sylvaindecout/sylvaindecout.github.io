@@ -8,17 +8,14 @@ toc: true
 
 ## 2025 - Devoxx Paris 🇫🇷
 
-**Sortir des ORMs avec jOOQ (2h hands-on lab)**
-
 We have been working with ORMs for decades.
-As devs, we often know how to use them, but what's behind remains a bit of a mystery.
-It's convenient, it saves time, but this magic comes at a cost that we often pay later on: complex queries, poor performance, context-specific behaviors...
+As devs, they are convenient, but this magic comes at a cost that we often get to pay later on.
 
-And yet, for several years now, alternatives such as jOOQ have been gaining traction.
-Their credo: throw out your ORM and go back to good old SQL, except it's type-safe.
+And yet, for several years now, alternatives such as jOOQ have been gaining ground.
+Their credo: go back to good old SQL, except it's type-safe.
 
-This workshop, available in Java and in Kotlin, has you working on a typical Spring / JPA application, integrating jOOQ step by step to get rid of the ORM.
-Along the way, we also discover just how much simpler, more standard and more expressive our code can become.
+In this 2-hour hands-on lab, available in Java and in Kotlin, you will work on a typical Spring / JPA application and integrate jOOQ step by step.
+Along the way, we will discover just how much simpler, more standard and more expressive our code can become.
 And that it's pretty easy.
 
 {% include video provider="youtube" id="6TJNfVzMRWk" %}
