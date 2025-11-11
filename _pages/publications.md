@@ -4,6 +4,18 @@ permalink: /publications/
 toc: true
 ---
 
+## jOOQ et le code legacy (2025) 🇫🇷
+
+jOOQ is an alternative to ORMs that leverages SQL.
+
+The 1st part of the article shows how the ORM leads to legacy code and how replacing it with jOOQ improves the situation.
+
+[Blog Shodo (part 1)](https://shodo.io/jooq-et-le-code-legacy-1)
+
+The 2nd part of the article provides tips to migrate to jOOQ and take full advantage of this new paradigm.
+
+[Blog Shodo (part 2)](https://shodo.io/jooq-et-le-code-legacy-2)
+
 ## Software Craftsmanship, culture and practices (2021) 🇫🇷
 
 This white paper is intended for people who have to make structuring decisions for IT and wish to benefit from the feedback of those who have already experienced the technologies of today and tomorrow.
