@@ -4,6 +4,8 @@ permalink: /conferences/
 toc: true
 ---
 
+## 2025 - Codeurs en Seine Rouen 🇫🇷
+
 ## 2025 - BreizhCamp Rennes 🇫🇷
 
 ## 2025 - Devoxx Paris 🇫🇷
