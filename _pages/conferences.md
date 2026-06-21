@@ -4,6 +4,14 @@ permalink: /conferences/
 toc: true
 ---
 
+## 2026 - DevLille 🇫🇷
+
+The Repository pattern may seem trivial and harmless at first.
+
+After introducing the basics, we will see the common pitfalls, and how to make the most of the pattern to absorb as much accidental complexity as possible from your business logic, including in your tests.
+
+{% include video provider="youtube" id="aCA9ouraKwY" %}
+
 ## 2025 - Codeurs en Seine Rouen 🇫🇷
 
 ## 2025 - BreizhCamp Rennes 🇫🇷
